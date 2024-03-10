@@ -1,27 +1,29 @@
+# Links
+
 1. Custom datagenerator and dnn
 
-https://www.kaggle.com/juanmartinezv4399/customdatagenerator-dnn
+<https://www.kaggle.com/juanmartinezv4399/customdatagenerator-dnn>
 
-2. Keras utilities and cnns and data augmentation
+1. Keras utilities and cnns and data augmentation
 
-https://www.kaggle.com/code/juanmartinezv4399/kerasdataloader
+<https://www.kaggle.com/code/juanmartinezv4399/kerasdataloader>
 
-3. Transfer learning
+1. Transfer learning
 
-https://www.kaggle.com/code/juanmartinezv4399/kerastransferlearning
+<https://www.kaggle.com/code/juanmartinezv4399/kerastransferlearning>
 
-4. Fastai
+1. Fastai
 
-https://www.kaggle.com/code/juanmartinezv4399/fastaiexample
+<https://www.kaggle.com/code/juanmartinezv4399/fastaiexample>
 
-5. HuggingFace application
+1. HuggingFace application
 
-https://huggingface.co/spaces/jdmartinev/imageclassifier_fastapi
+<https://huggingface.co/spaces/jdmartinev/imageclassifier_fastapi>
 
-6. HuggingFace
+1. HuggingFace
 
-https://huggingface.co/
+<https://huggingface.co/>
 
-7. Weights & Biases
+1. Weights & Biases
 
- https://wandb.ai/site
+<https://wandb.ai/site>
