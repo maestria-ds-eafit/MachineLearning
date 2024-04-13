@@ -13,6 +13,12 @@ notebook = "~=7.1.0"
 optuna = "~=3.5.0"
 shap = "~=0.44.1"
 category-encoders = "~=2.6.3"
+ipywidgets = "*"
+datasets = "*"
+transformers = "*"
+evaluate = "*"
+torch = "*"
+accelerate = "*"
 
 [dev-packages]
 
